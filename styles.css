@@ -1,1 +1,29 @@
-/*  your css code here. If applicable */
+/*  you.cor css code here. If applicable */
+.container
+{
+background-color:grey;
+	height:200px;
+	width:500px;
+	margin:0 auto;
+	border-radius:50px;
+	border:2px solid black;
+}
+.green
+{
+	background-color:green;
+	display:inline;
+	width:200px;
+	height:200px;
+	b
+}
+.yellow
+{
+	background-color:yellow;
+	display:inline;
+}
+.red
+{
+	background-color:red;
+	display:inline;
+}
+
